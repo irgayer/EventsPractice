@@ -1,0 +1,7 @@
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\bin\Debug\EventsPractice.exe.config
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\bin\Debug\EventsPractice.exe
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\bin\Debug\EventsPractice.pdb
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\obj\Debug\EventsPractice.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\obj\Debug\EventsPractice.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\obj\Debug\EventsPractice.exe
+C:\Users\ИргалиевЕ.CORP\source\repos\EventsPractice\obj\Debug\EventsPractice.pdb
